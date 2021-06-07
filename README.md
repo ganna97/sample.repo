@@ -5,8 +5,12 @@ introductory work on Markdown
 ## first daywork on module1 internship
 ### welcome to my readmefile
   <! -- ItalicStyles -->
+  
 *this is first day*Internship
+
 -this is first*Internship
+
   <!--Strong-->
 **welcome to my** readmefile
+
 -this text--is italic
