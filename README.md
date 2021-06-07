@@ -3,13 +3,34 @@ introductory work on Markdown
 
 <!--Headings-->
 # Markdown practice
-## first daywork on module1 internship
+## first day work on module1 internship
 ### welcome to my readmefile
 
 <!--ItalicStyles-->
-  *this is first day* Internship
--this is first* Internship
+- *this is first day* Internship
+- __this is my first Internship__
+---
+  <!--Strong--> 
+**Introduction** readmefile
 
-  <!--Strong-->
-**welcome to my** readmefile
-_this text_ is italic
+##Introduction
+
+_My name is Ganna Anil Kumar_ 
+
+_MBD_
+
+_IIPS, Mumbai_
+
+---
+
+<!-- My Intrests-->
+## area of intrest
+- Statistical Analysis
+- Demography
+- Public Health
+---
+
+
+
+
+
